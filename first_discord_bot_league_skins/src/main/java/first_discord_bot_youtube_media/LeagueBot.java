@@ -1,4 +1,4 @@
-package first_discord_bot_league_skins;
+package first_discord_bot_youtube_media;
 
 import java.io.IOException;
 import java.util.concurrent.Executors;
